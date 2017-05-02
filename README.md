@@ -80,3 +80,4 @@
 ##  运行效果
 
 <img src="img/msp430 snake-01.png" width = "50%" />
+[https://youtu.be/kEScoV-uOSQ](#https://youtu.be/kEScoV-uOSQ)
